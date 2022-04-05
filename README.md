@@ -1,6 +1,6 @@
 ### Hi there 👋
 ---
-Enjoying doing random and useless thing
+Enjoy doing random and useless thing
 
 
 Contact
