@@ -2,6 +2,7 @@
 ---
 Enjoy doing random and useless thing
 
+Currently interested in learning few natural and ~~unnatural~~ formal languages
 
 Contact
 Channel   | Detail
