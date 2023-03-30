@@ -9,6 +9,11 @@ IF2210-OOP with extra useless and garbage render system
 
 ![V2.5 Raycast](https://raw.githubusercontent.com/Lock1/IF2210-OOP-1/main/other/img/raycast-decoloration.gif)
 
+IF2230-OS with definitely useless loading bar
+
+![OS Loading bar](https://raw.githubusercontent.com/Lock1/IF2230-OS/main/other/img/boot_screen.gif)
+
+
 
 Contact
 Channel   | Detail
