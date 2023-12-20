@@ -1,9 +1,13 @@
 # Hey!
-Enjoy doing random and useless thing
+Enjoy doing random and useless things
 
 > When life gives you C & x86 asm, make lemonade!
 
+Full Stack Web Dev at certain enterprise company
 
+
+
+## Things
 
 IF2210-OOP with extra useless and garbage render system
 
@@ -15,7 +19,7 @@ IF2230-OS with definitely useless loading bar
 
 
 
-Contact
+## Contact
 Channel   | Detail
 ----      | -----
 Email     | rizaltanur@outlook.com 
